@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed</h1>
-<h3 align="center">A passionate python developer from Egypt & Junior Data Analyst</h3>
+<h3 align="center">A passionate python developer from Egypt & Junior Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman47-code&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman47-code" /> </p>
 
