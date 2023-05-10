@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdelrahman47-code](https://github.com/Abdelrahman47-code)
+- 👨‍💻 Some of my projects are available at [https://github.com/Abdelrahman47-code](https://github.com/Abdelrahman47-code)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelrahman-eldaba-739805192/](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/)
+- 📝 I regularly write posts on [https://www.linkedin.com/in/abdelrahman-eldaba-739805192/](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/)
 
-- 📫 How to reach me **abdelrahmaneldaba123@gmail.com**
+- 📫 You can reach me via my email **abdelrahmaneldaba123@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdelrahman-eldaba-739805192/](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/)
 
