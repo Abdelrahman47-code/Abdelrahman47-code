@@ -4,7 +4,7 @@ A passionate **Python Developer** and aspiring **Data Scientist** from Egypt.
 
 ## 🌱 Currently Learning
 
-Python, Data Science, and everything in between!
+AI, Data Science, and everything in between!
 
 ## 👨‍💻 Check Out My Projects
 
