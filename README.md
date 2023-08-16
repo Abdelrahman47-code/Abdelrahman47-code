@@ -25,7 +25,6 @@ Learn more about my journey on [LinkedIn](https://www.linkedin.com/in/abdelrahma
 ## 🚀 Connect with Me
 
 Let's connect and stay in touch:
-- [Twitter](https://twitter.com/@a_eldaba)
 - [LinkedIn](https://linkedin.com/in/abdelrahman-eldaba-739805192/)
 - [Kaggle](https://kaggle.com/abdelrahmanahmed110)
 - [Facebook](https://fb.com/profile.php?id=100009894226911)
