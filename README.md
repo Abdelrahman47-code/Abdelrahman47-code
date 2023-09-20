@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Abdelrahman Ahmed
 
-A passionate **Python Developer** and aspiring **Data Scientist** from Egypt.
+A passionate **Data Scientist** and aspiring **Web Developer** from Egypt.
 
 ## 🌱 Currently Learning
 
-AI, Data Science, and everything in between!
+AI, Data Science, Web Development and other technologies!
 
 ## 👨‍💻 Check Out My Projects
 
@@ -35,6 +35,7 @@ Let's connect and stay in touch:
 ## 🛠️ Tools and Technologies
 
 Here are some of the tools and technologies I use:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -47,6 +48,11 @@ Here are some of the tools and technologies I use:
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <!-- Add more icons here -->
 </p>
 
