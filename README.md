@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Abdelrahman Ahmed
 
-A passionate **Data Scientist** and aspiring **Web Developer** from Egypt.
-
 A passionate **AI Engineer**, **Data Scientist**, and aspiring Web Developer from Egypt. Skilled in data-driven analysis, with a focus on building intelligent solutions using ML, DL, CV, and NLP to solve real-world problems efficiently and creatively.
 
 ## 🌱 Currently Learning
